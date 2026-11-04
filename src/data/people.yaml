@@ -62,7 +62,10 @@
   degree: ms
   position: Engineer@Iteris
   education: Urban Analytics MS, UPenn
-  interests: ai reliance, collaboration, visual analytics, traffic
+  photo: eve-zhang.jpg
+  interests: AI reliance, human–AI collaboration, visual analytics, transportation
+  links:
+    github: https://github.com/zhaxinge
   start: 2026
 
 - id: astha-shah
